@@ -1,1 +1,219 @@
+MATERI LITERASI DENGAN AI
 
+120 Istilah Literasi Digital dalam Penulisan Buku, Jurnal Ilmiah, dan Publikasi Digital
+
+Penulis: Muhamad Fadlan Firdaus
+
+---
+
+SAMBUTAN
+
+Puji syukur ke hadirat Tuhan Yang Maha Esa karena materi Literasi dengan AI dapat disusun sebagai bahan pembelajaran untuk memahami perkembangan teknologi digital.
+
+Materi ini membahas literasi digital, pemanfaatan kecerdasan buatan, serta istilah penting dalam penulisan buku, jurnal ilmiah, dan publikasi digital. Semoga materi ini bermanfaat bagi pelajar, mahasiswa, dan masyarakat dalam meningkatkan keterampilan digital secara bijak dan bertanggung jawab.
+
+PENDAHULUAN
+
+Perkembangan teknologi digital dan kecerdasan buatan (Artificial Intelligence/AI) telah mengubah cara manusia mencari informasi, menulis, belajar, dan menerbitkan karya. Oleh karena itu, literasi digital menjadi kemampuan penting di era modern.
+
+Materi ini disusun untuk memperkenalkan konsep literasi digital, penggunaan AI, dan 120 istilah penting dalam dunia penulisan serta publikasi digital. Pembahasan disajikan secara ringkas agar mudah dipahami dan digunakan sebagai referensi pembelajaran.
+
+BAB I — PENGENALAN LITERASI DIGITAL DAN AI
+
+1.1 Pengertian Literasi Digital
+
+Literasi digital adalah kemampuan mengakses, memahami, mengevaluasi, membuat, dan membagikan informasi menggunakan teknologi digital secara aman dan bertanggung jawab.
+
+1.2 Pengertian Kecerdasan Buatan
+
+Artificial Intelligence (AI) atau kecerdasan buatan adalah teknologi yang memungkinkan komputer menjalankan tugas yang biasanya membutuhkan kemampuan manusia, seperti memahami bahasa, menganalisis data, dan menghasilkan konten.
+
+1.3 Manfaat AI dalam Literasi
+
+AI dapat membantu pengguna untuk:
+
+1. Mencari ide dan menyusun kerangka tulisan.
+2. Memperbaiki tata bahasa dan ejaan.
+3. Merangkum informasi.
+4. Membantu analisis data.
+5. Membuat ilustrasi dan konten digital.
+6. Mendukung proses belajar dan penelitian.
+
+1.4 Tantangan Penggunaan AI
+
+Penggunaan AI memiliki tantangan, seperti informasi yang tidak akurat, bias, plagiarisme, pelanggaran privasi, dan ketergantungan teknologi. Oleh karena itu, hasil AI harus diperiksa sebelum digunakan.
+
+BAB II — 120 ISTILAH LITERASI DIGITAL
+
+A. Istilah Dasar Literasi Digital
+
+1. Literasi Digital — Kemampuan menggunakan teknologi digital secara bijak.
+2. Informasi Digital — Informasi dalam format elektronik.
+3. Teknologi Informasi — Teknologi untuk mengolah dan menyebarkan informasi.
+4. Internet — Jaringan yang menghubungkan perangkat secara global.
+5. Platform Digital — Layanan berbasis teknologi.
+6. Media Digital — Media penyampaian informasi elektronik.
+7. Konten Digital — Informasi berbentuk teks, gambar, audio, atau video.
+8. Komunikasi Digital — Pertukaran informasi melalui teknologi.
+9. Jejak Digital — Rekaman aktivitas di ruang digital.
+10. Etika Digital — Prinsip perilaku yang baik dalam penggunaan teknologi.
+
+B. Istilah Penulisan Buku
+
+11. Naskah Digital — Naskah dalam bentuk elektronik.
+12. E-book — Buku dalam format digital.
+13. Editor Digital — Penyunting yang menggunakan perangkat digital.
+14. Penyuntingan — Proses memperbaiki isi dan bahasa tulisan.
+15. Layout — Pengaturan tata letak halaman.
+16. Tipografi — Pengaturan huruf dalam desain.
+17. Desain Sampul — Perancangan tampilan sampul buku.
+18. ISBN — Nomor standar internasional untuk mengidentifikasi buku.
+19. Daftar Isi Otomatis — Daftar bagian dokumen yang dibuat secara otomatis.
+20. Watermark — Tanda berupa teks atau gambar pada dokumen.
+21. Metadata Buku — Informasi tentang buku.
+22. PDF — Format dokumen elektronik.
+23. EPUB — Format buku digital.
+24. Proofreading — Pemeriksaan akhir tulisan.
+25. Hak Cipta — Hak hukum pencipta atas karya.
+
+C. Istilah Jurnal Ilmiah
+
+26. Jurnal Ilmiah — Publikasi hasil penelitian atau kajian akademik.
+27. Artikel Ilmiah — Tulisan berdasarkan penelitian atau analisis.
+28. Abstrak — Ringkasan penelitian.
+29. Kata Kunci — Istilah utama yang mewakili topik.
+30. Pendahuluan — Bagian yang menjelaskan latar belakang penelitian.
+31. Metodologi — Penjelasan cara penelitian dilakukan.
+32. Hasil Penelitian — Temuan penelitian.
+33. Pembahasan — Analisis hasil penelitian.
+34. Kesimpulan — Ringkasan jawaban atas tujuan penelitian.
+35. Daftar Pustaka — Daftar sumber rujukan.
+36. Sitasi — Penyebutan sumber dalam tulisan.
+37. Referensi Digital — Sumber rujukan elektronik.
+38. DOI — Pengidentifikasi digital permanen untuk karya ilmiah.
+39. Peer Review — Penilaian karya ilmiah oleh ahli sebidang.
+40. Plagiarisme — Penggunaan karya atau gagasan orang lain tanpa pengakuan yang semestinya.
+
+D. Pencarian dan Pengelolaan Referensi
+
+41. Mesin Pencari — Sistem untuk menemukan informasi.
+42. Google Scholar — Layanan pencarian literatur akademik.
+43. Database Akademik — Basis data publikasi ilmiah.
+44. Kata Kunci Pencarian — Kata untuk menemukan informasi.
+45. Boolean Search — Teknik pencarian menggunakan AND, OR, dan NOT.
+46. Open Access — Akses terbuka terhadap publikasi.
+47. Repositori Digital — Tempat penyimpanan dokumen digital.
+48. Manajemen Referensi — Pengelolaan sumber rujukan.
+49. Zotero — Aplikasi pengelola referensi.
+50. Mendeley — Aplikasi pengelola referensi dan literatur.
+51. Bibliografi — Daftar sumber bacaan.
+52. Literatur Primer — Sumber informasi asli.
+53. Literatur Sekunder — Sumber yang membahas sumber lain.
+54. Literatur Tersier — Sumber yang merangkum atau mengindeks informasi.
+55. Verifikasi Sumber — Pemeriksaan keaslian dan kredibilitas sumber.
+
+E. Publikasi Digital
+
+56. Publikasi Digital — Penyebaran karya melalui media elektronik.
+57. Blog — Situs untuk menerbitkan tulisan.
+58. Website — Kumpulan halaman informasi di internet.
+59. CMS — Sistem pengelolaan konten digital.
+60. WordPress — Platform pengelolaan situs web.
+61. SEO — Optimasi agar konten mudah ditemukan di mesin pencari.
+62. Kata Kunci SEO — Istilah yang ditargetkan dalam optimasi konten.
+63. Meta Description — Ringkasan halaman web.
+64. URL — Alamat suatu sumber di internet.
+65. Hyperlink — Tautan menuju sumber lain.
+66. Domain — Nama alamat situs web.
+67. Hosting — Layanan penyimpanan berkas situs web.
+68. Analitik Digital — Pengukuran aktivitas pengguna.
+69. Engagement — Tingkat interaksi pengguna dengan konten.
+70. Distribusi Konten — Proses menyebarkan konten kepada audiens.
+
+F. Kecerdasan Buatan (AI)
+
+71. Artificial Intelligence — Teknologi kecerdasan buatan.
+72. Generative AI — AI yang menghasilkan konten baru.
+73. Machine Learning — Metode AI yang mempelajari pola dari data.
+74. NLP — Teknologi pengolahan bahasa manusia.
+75. Large Language Model — Model AI untuk memahami dan menghasilkan bahasa.
+76. Prompt — Instruksi yang diberikan kepada AI.
+77. Prompt Engineering — Teknik menyusun instruksi AI.
+78. Chatbot — Program yang berinteraksi melalui percakapan.
+79. Otomatisasi — Pelaksanaan tugas secara otomatis.
+80. AI Writing Assistant — AI yang membantu penulisan.
+81. Pemeriksaan Fakta — Proses memeriksa kebenaran informasi.
+82. Halusinasi AI — Informasi keliru yang dihasilkan AI.
+83. Bias AI — Kecenderungan hasil AI yang tidak netral.
+84. Human-in-the-Loop — Keterlibatan manusia dalam pengawasan sistem AI.
+85. Etika AI — Prinsip penggunaan AI secara bertanggung jawab.
+
+G. Keamanan dan Privasi Digital
+
+86. Keamanan Siber — Perlindungan sistem dan data digital.
+87. Privasi Digital — Perlindungan informasi pribadi.
+88. Data Pribadi — Informasi yang berkaitan dengan individu.
+89. Enkripsi — Proses mengubah data menjadi bentuk terlindungi.
+90. Autentikasi — Proses verifikasi identitas.
+91. Kata Sandi — Karakter untuk melindungi akun.
+92. Autentikasi Dua Faktor — Verifikasi menggunakan dua faktor berbeda.
+93. Phishing — Penipuan untuk memperoleh informasi sensitif.
+94. Malware — Perangkat lunak berbahaya.
+95. Backup — Salinan cadangan data.
+96. Cloud Storage — Penyimpanan data berbasis internet.
+97. Hak Akses — Izin untuk mengakses atau mengubah data.
+98. Kebocoran Data — Terungkapnya data kepada pihak yang tidak berwenang.
+99. Persetujuan Digital — Persetujuan melalui sarana elektronik.
+100. Jejak Audit — Catatan aktivitas dan perubahan sistem.
+
+H. Desain dan Konten Multimedia
+
+101. Multimedia — Gabungan berbagai bentuk media.
+102. Infografis — Penyajian informasi melalui visual.
+103. Ilustrasi Digital — Gambar yang dibuat dengan perangkat digital.
+104. Resolusi Gambar — Tingkat detail gambar.
+105. Kompresi File — Pengurangan ukuran berkas.
+106. JPEG — Format gambar yang umum digunakan untuk foto.
+107. PNG — Format gambar yang mendukung transparansi.
+108. SVG — Format gambar vektor.
+109. Video Editing — Proses penyuntingan video.
+110. Audio Digital — Suara dalam format digital.
+
+I. Evaluasi dan Etika Informasi
+
+111. Literasi Informasi — Kemampuan menemukan dan mengevaluasi informasi.
+112. Berpikir Kritis — Kemampuan menilai informasi secara logis.
+113. Misinformasi — Informasi salah yang disebarkan tanpa harus berniat menipu.
+114. Disinformasi — Informasi salah yang sengaja disebarkan untuk menyesatkan.
+115. Malinformasi — Informasi yang benar tetapi digunakan untuk merugikan.
+116. Kredibilitas — Tingkat keterpercayaan sumber.
+117. Objektivitas — Upaya menyajikan informasi secara adil berdasarkan bukti.
+118. Transparansi — Keterbukaan proses dan sumber informasi.
+119. Atribusi — Pengakuan terhadap pencipta atau sumber karya.
+120. Integritas Akademik — Kejujuran dan tanggung jawab dalam kegiatan akademik.
+
+BAB III — PENERAPAN AI DALAM PENULISAN
+
+3.1 AI untuk Menulis Buku
+
+AI dapat membantu membuat kerangka bab, mencari ide, memperbaiki tata bahasa, dan menyusun ringkasan. Penulis tetap bertanggung jawab atas isi, keaslian, dan kualitas naskah.
+
+3.2 AI untuk Jurnal Ilmiah
+
+AI dapat membantu merapikan bahasa, mengelompokkan gagasan, dan mendukung analisis. Penulis harus memverifikasi referensi, menjaga kerahasiaan data, dan mengikuti kebijakan penerbit mengenai penggunaan AI.
+
+3.3 AI untuk Publikasi Digital
+
+AI dapat membantu menyusun artikel SEO, membuat ide konten media sosial, merancang deskripsi produk, dan menghasilkan konsep visual. Konten harus diperiksa agar akurat dan sesuai kebutuhan audiens.
+
+3.4 Contoh Prompt AI
+
+“Buatkan kerangka artikel tentang literasi digital untuk mahasiswa, lengkap dengan pendahuluan, pembahasan, kesimpulan, dan sumber referensi yang dapat diverifikasi.”
+
+Prompt yang jelas membantu menghasilkan jawaban yang lebih terarah. Namun, sumber dan fakta yang diberikan AI tetap perlu diperiksa.
+
+PENUTUP
+
+Literasi digital dan kecerdasan buatan merupakan bekal penting dalam dunia pendidikan dan publikasi modern. Pemahaman terhadap istilah digital membantu pembaca menggunakan teknologi secara efektif, sedangkan penggunaan AI secara bijak dapat mendukung proses penulisan tanpa menggantikan tanggung jawab manusia.
+
+Dengan menguasai materi ini, diharapkan pembaca mampu menghasilkan karya yang informatif, akurat, etis, dan bermanfaat bagi masyarakat.
